@@ -1,0 +1,38 @@
+<?php
+/* Smarty version 3.1.43, created on 2022-06-27 13:17:47
+  from 'module:pssocialfollowpssocialfol' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.43',
+  'unifunc' => 'content_62b94b8b0546a5_79625751',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '80ac9ddb06fe7b43ffdd2f5cd1185536480d2577' => 
+    array (
+      0 => 'module:pssocialfollowpssocialfol',
+      1 => 1656082543,
+      2 => 'module',
+    ),
+  ),
+  'cache_lifetime' => 31536000,
+),true)) {
+function content_62b94b8b0546a5_79625751 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
+  'renderLogo' => 
+  array (
+    'compiled_filepath' => 'C:\\xampp\\htdocs\\prestashop\\var\\cache\\prod\\smarty\\compile\\classiclayouts_layout_full_width_tpl\\08\\39\\b4\\0839b4f781e4562a087a5e1991febe8a6e755e36_2.file.helpers.tpl.php',
+    'uid' => '0839b4f781e4562a087a5e1991febe8a6e755e36',
+    'call_name' => 'smarty_template_function_renderLogo_96498802262b6fa80e3e4a7_46030598',
+  ),
+));
+?>
+
+  <div class="block-social col-lg-4 col-md-12 col-sm-12">
+    <ul>
+          </ul>
+  </div>
+
+<?php }
+}
